@@ -1,0 +1,8 @@
+.bg-container{
+    background-color: blue;
+}
+
+table,th,tr,td{
+    border: 1px solid black;
+    border-radius: 10px;
+}
